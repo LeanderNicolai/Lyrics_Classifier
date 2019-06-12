@@ -1,0 +1,55 @@
+/* h2 {
+    /* color changes FONT color */
+    /* color: black;
+    font-size: 32px;
+    font-weight: 900;
+    font-family: 'Helvetica Neue';
+    letter-spacing: 5px;
+    background: chocolate;
+    width: 300px;
+    border: 10px solid black;
+} */
+
+.jumbotron {
+    ;
+
+} */
+
+
+/* p {
+    border: 5px double blue;
+    text-align: center;
+}
+
+form {
+    border: 5px solid red;
+}
+
+input {
+    margin-top: 10px;
+    margin-left: 5px;
+}
+
+/* to target elements based on their class -- write . + name of class */
+/* .input-submit {
+    margin-bottom: 15px;
+} */ */
+
+/* to target elements based on their id -- write # + name of id */
+/* #input-3 {
+    width: 500px;
+}
+
+.input-3-class {
+
+} */
+
+
+
+
+
+
+
+/* a {
+    border: 5px solid #ab34de;
+} */ */
